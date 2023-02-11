@@ -1,0 +1,5 @@
+# robots.txt Ibrahim Sugün tarafından oluşturuldu
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://turknet.netlify-app/sitemap.xml
